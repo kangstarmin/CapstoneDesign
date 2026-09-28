@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Cauldron
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Culture
+    uniqueID: 2006308317
+    locked: 0
+  - name: Ingame
+    uniqueID: 3737157869
+    locked: 0
+  - name: Guest
+    uniqueID: 2704254705
+    locked: 0
+  - name: UI
+    uniqueID: 1158588523
+    locked: 0
+  - name: Title
+    uniqueID: 439620693
+    locked: 0
+  m_RenderingLayers:
+  - Default
